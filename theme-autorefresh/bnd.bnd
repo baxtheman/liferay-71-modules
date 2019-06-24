@@ -1,0 +1,6 @@
+Bundle-Name: theme-autorefresh
+Bundle-SymbolicName: theme.autorefresh
+Bundle-Version: 1.0.0
+Liferay-Theme-Contributor-Type: theme-autorefresh
+Web-ContextPath: /theme-autorefresh-theme-contributor
+

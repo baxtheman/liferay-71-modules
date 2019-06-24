@@ -1,0 +1,5 @@
+Bundle-Name: theme-js-error
+Bundle-SymbolicName: theme.js.error
+Bundle-Version: 1.0.0
+Liferay-Theme-Contributor-Type: theme-js-error
+Web-ContextPath: /theme-js-error-theme-contributor
